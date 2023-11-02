@@ -1,0 +1,28 @@
+div{
+    position: relative;
+    left: 10%;
+    
+ }
+
+
+h1{
+    width: 40%;
+    height: 80px;
+    padding: 5px;
+    background-color: rgb(131, 191, 171);
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+textarea{
+    height: 200px;
+    width:40%;
+    margin-top: 0;
+}
+
+h2{
+    height: 50px;
+    background-color: rgb(131, 191, 171);
+    text-align: center;
+    width:40%;
+}
